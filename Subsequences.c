@@ -50,6 +50,9 @@ bool isSubsequenceC(const char* text, const char* subseq) {
     }
 }
 
+/*
+ * Run the C-based subsequence function.
+ */
 void runSubsequencesC() {
     isSubsequenceC("kAGREe", "AGREE");
 }

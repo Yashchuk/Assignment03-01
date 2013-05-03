@@ -13,7 +13,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1A6006AA1731968900476857 /* AdvancedSubsequences.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AdvancedSubsequences.h; sourceTree = "<group>"; };
 		1A6006AB173198E600476857 /* Subsequences.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Subsequences.c; sourceTree = "<group>"; };
 		2B41FE00170E965800F12A5E /* Subsequences.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Subsequences.cpp; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
@@ -45,7 +44,6 @@
 		29B97314FDCFA39411CA2CEA /* Basic */ = {
 			isa = PBXGroup;
 			children = (
-				1A6006AA1731968900476857 /* AdvancedSubsequences.h */,
 				2B41FE00170E965800F12A5E /* Subsequences.cpp */,
 				1A6006AB173198E600476857 /* Subsequences.c */,
 				29B97317FDCFA39411CA2CEA /* Resources */,

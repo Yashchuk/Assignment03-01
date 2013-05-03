@@ -9,17 +9,11 @@
 #include <iostream>
 #include <string>
 #include "console.h"
-#include "AdvancedSubsequences.h"
 #include "Subsequences.c"
 using namespace std;
 
 /* Perform unit tests on the isSubsequence() function. */
 void runTests();
-
-/* Given two strings, returns whether the second string is a
- * subsequence of the first string.
- */
-bool isSubsequence(string text, string subseq);
 
 /*
  * Recursively determine whether a string is a
@@ -51,8 +45,7 @@ bool isSubsequence(string text, string subseq) {
 int main() {
     runTests();
 
-    // Run two extensions to the core original assignment
-    runAdvancedSubsequences();
+    // Run an extension to the core original assignment
     runSubsequencesC();
     return 0;
 }
